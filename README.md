@@ -105,3 +105,9 @@ The project demonstrates end-to-end BI capabilities — from **data cleaning and
 ├── 📄 README.md
 ├── 📈 Dashboard_Screenshots/ 
 └── 📚 Data/ 
+
+
+
+📊 Power BI Dashboard File (.pbix)
+[Download from Google Drive]([https://drive.google.com/yourfilelink](https://drive.google.com/drive/u/0/folders/1EAwkABHkfvWW2Pj5RA2ky8pdjd6KDFlR))
+
